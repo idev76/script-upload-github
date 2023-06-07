@@ -15,9 +15,9 @@ fi
 #    contoh: bash upload.sh "/home/greenforce/syberia/out/target/product/chime/Syberia-blablabla.zip" "Syberia-blablabla.zip"
 
 # Lingkungan Utama -> EDIT DISINI <-
-export UsernameGitHub=     # Username akun GitHub / Organisasi Anda, contoh -> 'fadlyas07'
-export TokenGithub=         # Token GitHub akun Anda, biasanya di mulai dengan -> 'gh_xxxxxx'
-export TargetRilisRepository=        # Nama repository yang ingin Anda gunakan sebagai tempat mengunggah file, contoh -> 'android-release'
+export UsernameGitHub=idev76     # Username akun GitHub / Organisasi Anda, contoh -> 'fadlyas07'
+export TokenGithub=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         # Token GitHub akun Anda, biasanya di mulai dengan -> 'gh_xxxxxx'
+export TargetRilisRepository=test-build        # Nama repository yang ingin Anda gunakan sebagai tempat mengunggah file, contoh -> 'android-release'
 export TargetRilisTag=release    # Nama tag dalam repository Anda
 
 # JANGAN DIUBAH!
